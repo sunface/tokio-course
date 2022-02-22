@@ -1,5 +1,5 @@
 # Tokio异步编程
-该书是 [course.rs](https://github.com/sunface/rust-course) 中 <<Tokio 使用指南>> 的镜像内容，高质量手翻并扩展了 tokio 官网的教程， 深入讲述了如何编写 Rust 高并发异步程序
+该书是 [<<Rust语言圣经>>](https://github.com/sunface/rust-course) 中 "Tokio 使用指南专题" 的镜像内容，高质量手翻并扩展了 tokio 官网的教程， 深入讲述了如何编写 Rust 高并发异步程序
 
 ## 目录
 - [tokio概览](src/overview.md)
