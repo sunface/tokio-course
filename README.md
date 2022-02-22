@@ -1,5 +1,5 @@
 # Tokio异步编程
-tokio-course 翻译并扩展了 tokio 官网的教程， 深入讲述了如何编写 Rust 高并发异步程序，随教程还配有一个非常棒的 demo，全中文代码注释，手把手带你实现一个小型 redis。
+该书是 [course.rs](https://github.com/sunface/rust-course) 中 <<Tokio 使用指南>> 的镜像内容，高质量手翻并扩展了 tokio 官网的教程， 深入讲述了如何编写 Rust 高并发异步程序
 
 ## 目录
 - [tokio概览](src/overview.md)
